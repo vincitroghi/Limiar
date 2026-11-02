@@ -1,0 +1,4 @@
+LIMIAR INTEGRAL 3.0
+Para instalar como PWA, publique esta pasta em um servidor HTTPS ou localhost. Acesse index.html no navegador e escolha Instalar aplicativo.
+Para uso imediato sem hospedagem, abra Limiar_Integral_v3.html. Os dados ficam neste navegador, por origem. Exporte um backup JSON antes de trocar de arquivo/endereço.
+O aplicativo identifica os 120 exercícios originais de Tyson, 16 competências MMM e 25 operações KKK. Os procedimentos são resumos adaptados e não substituem os textos originais.
